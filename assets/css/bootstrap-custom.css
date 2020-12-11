@@ -2922,11 +2922,11 @@
   
   .btn-primary {
     color: #fff;
-    background-color: #319795;
+    background-color: #5000ff6b;
     border-color: #319795;
     -webkit-box-shadow: none;
-            box-shadow: none;
-  }
+    box-shadow: none;
+}
   
   .btn-primary:hover {
     color: #fff;

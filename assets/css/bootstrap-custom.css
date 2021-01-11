@@ -2923,15 +2923,15 @@
   .btn-primary {
     color: #fff;
     background-color: #5000ff6b;
-    border-color: #319795;
+
     -webkit-box-shadow: none;
     box-shadow: none;
 }
   
   .btn-primary:hover {
     color: #fff;
-    background-color: #287a79;
-    border-color: #25706f;
+    background-color:#521ec66b;
+ 
   }
   
   .btn-primary:focus, .btn-primary.focus {

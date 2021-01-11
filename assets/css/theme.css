@@ -2490,7 +2490,7 @@
   }
   
   .item-card .short-description .extension-text a {
-    color: #2b8482;
+    color: #2b4584;
   }
   
   .item-card .short-description .extension-text a:hover {
@@ -2529,7 +2529,7 @@
   
   .hover-icons ul li a:hover, .hover-icons ul li a.active {
     color: #fff;
-    background-color: #319795;
+    background-color: #5000ff6b;
   }
   
   .item-card__image > a {
@@ -2925,7 +2925,7 @@
     margin: 2rem auto 2rem;
     border-radius: 0.9375rem;
     position: relative;
-    background-color: #f3ff9b;
+    background-color: #f4ffe6;
   }
   
   .intro-2 .intro-title {
